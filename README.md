@@ -14,7 +14,7 @@ The SOLID principles applied include:
 - **I — Interface Segregation Principle (ISP)** *(covered in later exercises, not included here)*
 - **D — Dependency Inversion Principle (DIP)** *(covered in later exercises, not included here)*
 
-This submission includes refactored solutions for Exercises 1 through 6.
+This submission includes refactored solutions for Exercises 1 through 4.
 
 ---
 
@@ -30,10 +30,6 @@ SST28-LLD101/
 │  └── src/
 ├── Ex4/
 │  └── src/
-├── Ex5/
-│  └── src/
-└── Ex6/
-   └── src/
 ```
 
 
