@@ -15,7 +15,7 @@ public class Main {
                 60000       // per 60 seconds
         );
 
-        // 🔁 SWITCH STRATEGY HERE
+        //  SWITCH STRATEGY HERE
         RateLimiter limiter = new RateLimiter(
                 new FixedWindowStrategy(config)
                 // new SlidingWindowStrategy(config)
